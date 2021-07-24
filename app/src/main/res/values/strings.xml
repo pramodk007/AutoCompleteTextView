@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="hint">Enter your favorite programming language</string>
+    <string name="programLanguagesToDisplay">c++,java,python,c,javascript</string>
+</resources>
